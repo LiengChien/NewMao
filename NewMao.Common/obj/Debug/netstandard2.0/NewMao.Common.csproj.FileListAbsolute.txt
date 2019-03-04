@@ -1,0 +1,6 @@
+C:\Users\Link\Documents\NewMao\NewMao.Common\bin\Debug\netstandard2.0\NewMao.Common.deps.json
+C:\Users\Link\Documents\NewMao\NewMao.Common\bin\Debug\netstandard2.0\NewMao.Common.dll
+C:\Users\Link\Documents\NewMao\NewMao.Common\obj\Debug\netstandard2.0\NewMao.Common.csprojAssemblyReference.cache
+C:\Users\Link\Documents\NewMao\NewMao.Common\obj\Debug\netstandard2.0\NewMao.Common.csproj.CoreCompileInputs.cache
+C:\Users\Link\Documents\NewMao\NewMao.Common\obj\Debug\netstandard2.0\NewMao.Common.AssemblyInfoInputs.cache
+C:\Users\Link\Documents\NewMao\NewMao.Common\obj\Debug\netstandard2.0\NewMao.Common.AssemblyInfo.cs
