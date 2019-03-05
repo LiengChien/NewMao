@@ -1,0 +1,5 @@
+C:\Users\Link\Documents\NewMao\NewMao.Core\bin\Debug\netstandard2.0\NewMao.Common.dll
+C:\Users\Link\Documents\NewMao\NewMao.Core\obj\Debug\netstandard2.0\NewMao.Core.csprojAssemblyReference.cache
+C:\Users\Link\Documents\NewMao\NewMao.Core\obj\Debug\netstandard2.0\NewMao.Core.csproj.CoreCompileInputs.cache
+C:\Users\Link\Documents\NewMao\NewMao.Core\obj\Debug\netstandard2.0\NewMao.Core.AssemblyInfoInputs.cache
+C:\Users\Link\Documents\NewMao\NewMao.Core\obj\Debug\netstandard2.0\NewMao.Core.AssemblyInfo.cs

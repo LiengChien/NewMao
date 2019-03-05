@@ -1,0 +1,14 @@
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\bin\Debug\netcoreapp2.1\NewMao.WebApi.deps.json
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\bin\Debug\netcoreapp2.1\NewMao.WebApi.runtimeconfig.json
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\bin\Debug\netcoreapp2.1\NewMao.WebApi.runtimeconfig.dev.json
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\bin\Debug\netcoreapp2.1\NewMao.WebApi.dll
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\bin\Debug\netcoreapp2.1\NewMao.WebApi.pdb
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\obj\Debug\netcoreapp2.1\NewMao.WebApi.csprojAssemblyReference.cache
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\obj\Debug\netcoreapp2.1\NewMao.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\obj\Debug\netcoreapp2.1\NewMao.WebApi.RazorAssemblyInfo.cache
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\obj\Debug\netcoreapp2.1\NewMao.WebApi.RazorAssemblyInfo.cs
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\obj\Debug\netcoreapp2.1\NewMao.WebApi.AssemblyInfoInputs.cache
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\obj\Debug\netcoreapp2.1\NewMao.WebApi.AssemblyInfo.cs
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\obj\Debug\netcoreapp2.1\NewMao.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\obj\Debug\netcoreapp2.1\NewMao.WebApi.dll
+C:\Users\Link\Documents\NewMao\NewMao.WebApi\obj\Debug\netcoreapp2.1\NewMao.WebApi.pdb
