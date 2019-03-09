@@ -8,27 +8,27 @@ namespace NewMao.Common.Model
     public class BaseModel : IBaseModel
     {
         [Column(Name = "created_date")]
-        public DateTime? CreatedDate { get; set; }
+        public virtual DateTime? CreatedDate { get; set; }
 
         [Column(Name = "created_by")]
-        public string CreatedBy { get; set; }
+        public virtual string CreatedBy { get; set; }
 
         [Column(Name = "updated_date")]
-        public DateTime? UpdatedDate { get; set; }
+        public virtual DateTime? UpdatedDate { get; set; }
 
         [Column(Name = "updated_by")]
-        public string UpdatedBy { get; set; }
+        public virtual string UpdatedBy { get; set; }
 
         [Column(Name = "active")]
-        public string Active { get; set; }
+        public virtual string Active { get; set; }
 
         [Column(Name = "deleted_date")]
-        public DateTime? DeletedDate { get; set; }
+        public virtual DateTime? DeletedDate { get; set; }
 
         [Column(Name = "deleted_by")]
-        public string DeletedBy { get; set; }
+        public virtual string DeletedBy { get; set; }
 
         [Column(Name = "module_name")]
-        public string MooduleName { get; set; }
+        public virtual string ModuleName { get; set; }
     }
 }

@@ -13,6 +13,6 @@ namespace NewMao.Common.Model
         string Active { get; set; }
         DateTime? DeletedDate { get; set; }
         string DeletedBy { get; set; }
-        string MooduleName { get; set; }
+        string ModuleName { get; set; }
     }
 }

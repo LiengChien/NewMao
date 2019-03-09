@@ -13,7 +13,7 @@ namespace NewMao.Core.Extensions
             rtnList.CurrentPage = pager.PageNum;
             rtnList.Items = models;
             rtnList.TotalSize = totalSize;
-            
+            rtnList.TotalPages = totalSize.GetTotalPages(pager.PageSize);
             return rtnList;
         }
     }

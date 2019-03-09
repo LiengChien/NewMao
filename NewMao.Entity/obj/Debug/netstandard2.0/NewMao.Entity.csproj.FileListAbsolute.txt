@@ -1,0 +1,6 @@
+C:\Users\b8756\Documents\GitHub\NewMao\NewMao.Entity\bin\Debug\netstandard2.0\NewMao.Entity.deps.json
+C:\Users\b8756\Documents\GitHub\NewMao\NewMao.Entity\bin\Debug\netstandard2.0\NewMao.Entity.dll
+C:\Users\b8756\Documents\GitHub\NewMao\NewMao.Entity\obj\Debug\netstandard2.0\NewMao.Entity.csprojAssemblyReference.cache
+C:\Users\b8756\Documents\GitHub\NewMao\NewMao.Entity\obj\Debug\netstandard2.0\NewMao.Entity.csproj.CoreCompileInputs.cache
+C:\Users\b8756\Documents\GitHub\NewMao\NewMao.Entity\obj\Debug\netstandard2.0\NewMao.Entity.AssemblyInfoInputs.cache
+C:\Users\b8756\Documents\GitHub\NewMao\NewMao.Entity\obj\Debug\netstandard2.0\NewMao.Entity.AssemblyInfo.cs

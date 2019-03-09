@@ -3210,7 +3210,7 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.4.0": {
-      "sha512": "BWYdrACMy1Sbq7Kh1oISS+2qKX1dHhXNpRByG3c6M9i2fhU9BZqO3nFYIabmbZuQwd7svR5zfxNHgmgv2XkkIg==",
+      "sha512": "JRxOAH6by+wn1gNnZc9jf2HbO/szhMJuLY2w44nEW77354WntXlFzWSVkx6280Uvcl3URZ/At+444vjX0/X1Aw==",
       "type": "package",
       "path": "system.reflection.typeextensions/4.4.0",
       "files": [
@@ -5059,23 +5059,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Link\\.nuget\\packages\\": {},
+    "C:\\Users\\b8756\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Link\\Documents\\NewMao\\NewMao.Core\\NewMao.Core.csproj",
+      "projectUniqueName": "C:\\Users\\b8756\\Documents\\GitHub\\NewMao\\NewMao.Core\\NewMao.Core.csproj",
       "projectName": "NewMao.Core",
-      "projectPath": "C:\\Users\\Link\\Documents\\NewMao\\NewMao.Core\\NewMao.Core.csproj",
-      "packagesPath": "C:\\Users\\Link\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Link\\Documents\\NewMao\\NewMao.Core\\obj\\",
+      "projectPath": "C:\\Users\\b8756\\Documents\\GitHub\\NewMao\\NewMao.Core\\NewMao.Core.csproj",
+      "packagesPath": "C:\\Users\\b8756\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\b8756\\Documents\\GitHub\\NewMao\\NewMao.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Link\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\b8756\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5088,8 +5088,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Link\\Documents\\NewMao\\NewMao.Common\\NewMao.Common.csproj": {
-              "projectPath": "C:\\Users\\Link\\Documents\\NewMao\\NewMao.Common\\NewMao.Common.csproj"
+            "C:\\Users\\b8756\\Documents\\GitHub\\NewMao\\NewMao.Common\\NewMao.Common.csproj": {
+              "projectPath": "C:\\Users\\b8756\\Documents\\GitHub\\NewMao\\NewMao.Common\\NewMao.Common.csproj"
             }
           }
         }
