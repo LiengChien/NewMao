@@ -9,3 +9,5 @@
 .vs/NewMao.WebApi/v15/Server/sqlite3/storage.ide-shm
 .vs/NewMao.WebApi/v15/Server/sqlite3/storage.ide-wal
 .vs/NewMao.WebApi/DesignTimeBuild/.dtbcache
+NewMao.Service/obj/Debug/netstandard2.0/NewMao.Service.csproj.CoreCompileInputs.cache
+NewMao.Interface/obj/Debug/netstandard2.0/NewMao.Interface.csproj.CoreCompileInputs.cache
