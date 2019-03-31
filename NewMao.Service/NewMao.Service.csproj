@@ -16,8 +16,4 @@
     <ProjectReference Include="..\NewMao.Repository\NewMao.Repository.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>

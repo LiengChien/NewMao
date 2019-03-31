@@ -27,6 +27,7 @@ namespace NewMao.Entity.Detail
         [Column(Name = "column_name")]
         public string ColumnName { get; set; }
 
+        [Column(Name = "table_name")]
         public string TableName { get; set; }
 
         [Column(Name = "module_name", IsKey = true)]

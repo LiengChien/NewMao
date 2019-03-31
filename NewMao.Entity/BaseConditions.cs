@@ -14,5 +14,8 @@ namespace NewMao.Entity
         public string CurrentEmpId { get; set; }
 
         public string CurrentUserRoleIds { get; set; }
+
+        [Column(Name = "module_name", WhereTypeDefine = Common.Enum.WhereClause.EqualTo)]
+        public string ModuleName { get; set; }
     }
 }

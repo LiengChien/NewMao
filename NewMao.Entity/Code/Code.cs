@@ -9,8 +9,8 @@ namespace NewMao.Entity.Code
     [Table(Name = "code", TableSelectType = Common.Enum.SelectType.Complicated)]
     public class Code : BaseModel
     {
-        [Column(Name = "code", IsKey = true)]
-        public int id { get; set; }
+        [Column(Name = "id", IsKey = true)]
+        public int Id { get; set; }
 
         [Column(Name = "code_type")]
         public string CodeType { get; set; }
@@ -20,5 +20,14 @@ namespace NewMao.Entity.Code
 
         [Column(Name = "code_name")]
         public string CodeName { get; set; }
+
+        [Column(Name = "code_name_note")]
+        public string CodeNameNote { get; set; }
+
+        [Column(Name = "enable")]
+        public bool? Enable { get; set; }
+
+        [Column(Name = "order")]
+        public int? Order { get; set; }
     }
 }
